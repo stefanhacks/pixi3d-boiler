@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stefanhacks/gamejam00/issues"
   },
-  "homepage": "https://github.com/stefanhacks/gamejam00#readme"
+  "homepage": "https://github.com/stefanhacks/gamejam00#readme",
+  "devDependencies": {
+    "pixi3d": "^0.9.5"
+  }
 }
