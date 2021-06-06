@@ -2,9 +2,10 @@
   "name": "gamejam00",
   "version": "1.0.0",
   "description": "Gamejam repo.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/stefanhacks/gamejam00#readme",
   "devDependencies": {
-    "pixi3d": "^0.9.5"
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
   }
 }
