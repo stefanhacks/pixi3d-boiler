@@ -1,0 +1,19 @@
+{
+  "name": "gamejam00",
+  "version": "1.0.0",
+  "description": "Gamejam repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanhacks/gamejam00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanhacks/gamejam00/issues"
+  },
+  "homepage": "https://github.com/stefanhacks/gamejam00#readme"
+}
