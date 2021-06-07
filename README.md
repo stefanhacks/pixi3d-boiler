@@ -1,4 +1,5 @@
 ## Stack: 
+- [Husky](https://typicode.github.io/husky/#/)
 - [Pixi](https://github.com/pixijs/pixijs)
 - [Pixi3D](https://github.com/jnsmalm/pixi3d)
 - [Webpack](https://webpack.js.org)
